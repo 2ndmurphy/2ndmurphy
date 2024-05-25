@@ -4,7 +4,7 @@ Halo! Saya sangat senang Anda mengunjungi profil GitHub saya. Berikut adalah sed
 
 ## Tentang Saya
 
-Nama saya Muhamad Jibril Muqodas dan saya seorang Front-End Developer. Saya memiliki minat yang besar dalam pengembangan web dan mobile app Di profil ini, Anda akan menemukan berbagai proyek yang telah saya kerjakan, baik secara pribadi maupun kolaboratif.
+Nama saya [Nama Anda] dan saya seorang [profesi atau bidang keahlian Anda, misalnya, "pengembang perangkat lunak", "data scientist", dll.]. Saya memiliki minat yang besar dalam [minat atau bidang spesifik Anda, misalnya, "pengembangan web", "kecerdasan buatan", dll.]. Di profil ini, Anda akan menemukan berbagai proyek yang telah saya kerjakan, baik secara pribadi maupun kolaboratif.
 
 ## Proyek Terbaru
 
@@ -14,7 +14,7 @@ Berikut adalah beberapa proyek terbaru yang saya kerjakan:
 - [Proyek 2](link ke repositori): Deskripsi singkat tentang proyek ini.
 - [Proyek 3](link ke repositori): Deskripsi singkat tentang proyek ini.
 
-## Technolgies and Tools
+## Teknologi dan Alat
 
 Saya terbiasa menggunakan berbagai teknologi dan alat dalam pekerjaan saya, termasuk:
 
@@ -24,7 +24,7 @@ Saya terbiasa menggunakan berbagai teknologi dan alat dalam pekerjaan saya, term
 
 ## Most Used Languages
 
-![Most Used Languages]()
+![Most Used Languages](https://github-readme-murphy.vercel.app/api/top-langs/?username=2ndmurphy&layout=compact&theme=default)
 
 ## Cara Menghubungi Saya
 
