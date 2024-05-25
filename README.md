@@ -24,7 +24,7 @@ Saya terbiasa menggunakan berbagai teknologi dan alat dalam pekerjaan saya, term
 
 ## Most Used Languages
 
-![Most Used Languages](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages]()
 
 ## Cara Menghubungi Saya
 
