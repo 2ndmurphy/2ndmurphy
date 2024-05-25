@@ -1,6 +1,4 @@
-                  
- 
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+<h1 align="start" style="font-weight: bold;">Hello There! 👋</h1>
 
 <p align="center">
 <a href="#tech">Technologies</a>
@@ -17,7 +15,7 @@
 <a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
 </p>
  
-<h2 id="layout">🎨 Layout</h2>
+<h2 id="layout">🎨 Currently Project</h2>
 
 <p align="center">
 
@@ -27,8 +25,9 @@
  
 <h2 id="technologies">💻 Technologies</h2>
 
-- list of all technologies you used
-- react
+- Tailwindcss
+- React js
+- Next js
 - styled components
 - another example
  
