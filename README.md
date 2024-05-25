@@ -1,102 +1,50 @@
-<h1 align="start" style="font-weight: bold;">Hello There! 👋</h1>
+# 👋 Selamat Datang di Profil GitHub Saya!
 
-<p align="center">
-<a href="#tech">Technologies</a>
-<a href="#started">Getting Started</a>
-<a href="#colab">Collaborators</a>
-<a href="#contribute">Contribute</a> 
-</p>
+Halo! Saya sangat senang Anda mengunjungi profil GitHub saya. Berikut adalah sedikit tentang saya dan beberapa proyek yang telah saya kerjakan.
 
+## Tentang Saya
 
-<p align="center">Simple description of what your project do or how to use it</p>
+Nama saya [Nama Anda] dan saya seorang [profesi atau bidang keahlian Anda, misalnya, "pengembang perangkat lunak", "data scientist", dll.]. Saya memiliki minat yang besar dalam [minat atau bidang spesifik Anda, misalnya, "pengembangan web", "kecerdasan buatan", dll.]. Di profil ini, Anda akan menemukan berbagai proyek yang telah saya kerjakan, baik secara pribadi maupun kolaboratif.
 
+## Proyek Terbaru
 
-<p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
-</p>
- 
-<h2 id="layout">🎨 Currently Project</h2>
+Berikut adalah beberapa proyek terbaru yang saya kerjakan:
 
-<p align="center">
+- [Proyek 1](link ke repositori): Deskripsi singkat tentang proyek ini.
+- [Proyek 2](link ke repositori): Deskripsi singkat tentang proyek ini.
+- [Proyek 3](link ke repositori): Deskripsi singkat tentang proyek ini.
 
-<img src="https://source.unsplash.com/random" alt="Random Image" width="400px">
-<img src="https://source.unsplash.com/random" alt="Random Image" width="400px">
-</p>
- 
-<h2 id="technologies">💻 Technologies</h2>
+## Technolgies and Tools
 
-- Tailwindcss
-- React js
-- Next js
-- styled components
-- another example
- 
-<h2 id="started">🚀 Getting started</h2>
+Saya terbiasa menggunakan berbagai teknologi dan alat dalam pekerjaan saya, termasuk:
 
-Here you describe how to run your project locally
- 
-<h3>Prerequisites</h3>
+- **Bahasa Pemrograman**: Python, JavaScript, Java, C++, dll.
+- **Framework dan Library**: React, Node.js, TensorFlow, dll.
+- **Alat Pengembangan**: Git, Docker, Jenkins, dll.
 
-Here you list all prerequisites necessary for running your project. For example:
+## Most Used Languages
 
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
- 
-<h3>Cloning</h3>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
 
-How to clone your project
+## Cara Menghubungi Saya
 
-```bash
-git clone your-project-url-in-github
-```
- 
-<h3>Starting</h3>
+Jika Anda tertarik untuk berkolaborasi atau hanya ingin mengobrol, jangan ragu untuk menghubungi saya:
 
-How to start your project
+- Email: [email@example.com](mailto:email@example.com)
+- LinkedIn: [linkedin.com/in/nama-anda](https://linkedin.com/in/nama-anda)
+- Twitter: [twitter.com/nama_anda](https://twitter.com/nama_anda)
 
-```bash
-cd project-name
-npm some-command-to-run
-```
- 
-<h2 id="colab">🤝 Collaborators</h2>
+## Kontribusi
 
-<p>Special thank you for all people that contributed for this project.</p>
-<table>
-<tr>
+Saya selalu terbuka untuk kontribusi pada proyek-proyek saya. Jika Anda tertarik untuk berkontribusi, Anda bisa:
 
-<td align="center">
-<a href="https://github.com/Fernanda-Kipper">
-<img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
-<sub>
-<b>Fernanda Kipper</b>
-</sub>
-</a>
-</td>
+1. Fork repositori ini.
+2. Buat branch baru (`git checkout -b fitur-anda`).
+3. Lakukan perubahan yang Anda inginkan.
+4. Push ke branch tersebut (`git push origin fitur-anda`).
+5. Buat Pull Request.
 
-<td align="center">
-<a href="https://github.com/ShaanCoding">
-<img src="https://avatars.githubusercontent.com/u/22236218?v=4" width="100px;" alt="Shaan Khan Profile Picture"/><br>
-<sub>
-<b>Shaan Khan</b>
-</sub>
-</a>
-</td>
+Terima kasih telah mengunjungi profil saya! Semoga Anda menemukan sesuatu yang bermanfaat di sini.
 
-</tr>
-</table>
- 
-<h2 id="contribute">📫 Contribute</h2>
-
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
-
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
-2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
- 
-<h3>Documentations that might help</h3>
-
-[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
-
-[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+Salam hangat,
+[Nama Anda]
