@@ -4,29 +4,24 @@ Halo! Saya sangat senang Anda mengunjungi profil GitHub saya. Berikut adalah sed
 
 ## Tentang Saya
 
-Nama saya [Nama Anda] dan saya seorang [profesi atau bidang keahlian Anda, misalnya, "pengembang perangkat lunak", "data scientist", dll.]. Saya memiliki minat yang besar dalam [minat atau bidang spesifik Anda, misalnya, "pengembangan web", "kecerdasan buatan", dll.]. Di profil ini, Anda akan menemukan berbagai proyek yang telah saya kerjakan, baik secara pribadi maupun kolaboratif.
+Nama saya Muhamad Jibril Muqodas dan saya seorang Front-end Developer Saya memiliki minat yang besar dalam pengembangan web.
 
 ## Proyek Terbaru
 
-Berikut adalah beberapa proyek terbaru yang saya kerjakan:
+Berikut adalah beberapa proyek terbaru yang saya kerjakan: 
+- Deskripsi singkat tentang proyek ini.    
+- Deskripsi singkat tentang proyek ini.
+- Deskripsi singkat tentang proyek ini.
 
-- [Proyek 1](link ke repositori): Deskripsi singkat tentang proyek ini.
-- [Proyek 2](link ke repositori): Deskripsi singkat tentang proyek ini.
-- [Proyek 3](link ke repositori): Deskripsi singkat tentang proyek ini.
+[![{2ndmurphy}'s GitHub stats](https://github-readme-stats.vercel.app/api?username=2ndmurphy&show_icons=true&hide_border=true&theme=radical)](https://github.com/2ndmurphy) 
 
 ## Teknologi dan Alat
 
 Saya terbiasa menggunakan berbagai teknologi dan alat dalam pekerjaan saya, termasuk:
 
-- **Bahasa Pemrograman**: Python, JavaScript, Java, C++, dll.
-- **Framework dan Library**: React, Node.js, TensorFlow, dll.
-- **Alat Pengembangan**: Git, Docker, Jenkins, dll.
-
-## Most Used Languages
-
-![Most Used Languages](https://github-readme-murphy.vercel.app/api/top-langs/?username=2ndmurphy&layout=compact&theme=default)
-
-## Cara Menghubungi Saya
+- **Bahasa Pemrograman**: Python, JavaScript, dll.
+- **Framework dan Library**: Tailwindcss, React, Next, Node.js dll.
+- **Alat Pengembangan**: Git, Vercel dll.
 
 Jika Anda tertarik untuk berkolaborasi atau hanya ingin mengobrol, jangan ragu untuk menghubungi saya:
 
